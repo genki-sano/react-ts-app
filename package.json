@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "react-app-rewired start",
-    "build": "react-app-rewired build",
-    "test": "react-app-rewired test",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
   "dependencies": {
@@ -24,8 +24,7 @@
   "devDependencies": {
     "husky": "^4.2.3",
     "lint-staged": "^10.0.7",
-    "prettier": "^1.19.1",
-    "react-app-rewired": "^2.1.5"
+    "prettier": "^1.19.1"
   },
   "eslintConfig": {
     "extends": "react-app"
