@@ -1,5 +1,6 @@
 # react-ts-app
 
+[![Build Status](https://travis-ci.org/genki-sano/react-ts-app.svg?branch=master)](https://travis-ci.org/genki-sano/react-ts-app)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
 
 ## About react-ts-app
