@@ -6,7 +6,7 @@
 
 ## About react-ts-app
 
-react-ts-app is an example [React](https://github.com/facebook/react) + [Typescript](https://github.com/microsoft/TypeScript) app using [create-react-app](https://github.com/facebook/create-react-app).
+react-ts-app is an example [React](https://github.com/facebook/react) and [Typescript](https://github.com/microsoft/TypeScript) app using [create-react-app](https://github.com/facebook/create-react-app).
 
 ## Install
 
