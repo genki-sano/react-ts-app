@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "prepare": "husky install",
+    "lint-staged": "lint-staged",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -30,8 +32,8 @@
     "@typescript-eslint/eslint-plugin": "^5.4.0",
     "@typescript-eslint/parser": "^5.4.0",
     "eslint": "^7.11.0",
-    "husky": "^4.2.3",
-    "lint-staged": "^11.2.1",
+    "husky": "^7.0.4",
+    "lint-staged": "^12.0.3",
     "prettier": "^2.4.1",
     "stylelint": "^14.1.0",
     "stylelint-config-prettier": "^9.0.3",
@@ -61,10 +63,5 @@
       "yarn fix:eslint",
       "yarn fix:prettier"
     ]
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
   }
 }
